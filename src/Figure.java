@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Figure {
+public interface Figure {
+    double getPerimeter();
+    double getArea();
+    String getType();
 }
